@@ -66,7 +66,7 @@ status:     Building portfolio — Open to opportunities
 | CERT_06 | Network Technician | Cisco Networking Academy | [View ↗](https://github.com/oziomainya/certifications/blob/main/cisco/network-technician-career-path.pdf) | [Credly ↗](https://www.credly.com/badges/84e79aa5-8a8f-4c33-aac6-31513f57ba3d/public_url) |
 | CERT_07 | Ethical Hacker | Cisco Networking Academy | [View ↗](https://github.com/oziomainya/certifications/blob/main/cisco/ethical-hacker.pdf) | [Credly ↗](https://www.credly.com/badges/32fa31be-d68a-4f59-a651-e86def3ea202/public_url) |
 | CERT_08 | Junior Cybersecurity Analyst | Cisco Networking Academy | [View ↗](https://github.com/oziomainya/certifications/blob/main/cisco/junior-cybersec-analyst-career-path.pdf) | [Credly ↗](https://www.credly.com/badges/2b0d4a2b-b9d7-4639-b0b8-1ab9cc7dbd37/public_url) |
-| CERT_09 | Cybersecurity Analyst | Google | [View ↗](https://github.com/oziomainya/certifications/blob/main/google/google-cybersec.pdf) |  [Credly ↗](https://www.credly.com/badges/0258fee4-20de-4044-aab9-b1c411523f36/public_url) |
+| CERT_09 | Google Cybersecurity Analyst | Google | [View ↗](https://github.com/oziomainya/certifications/blob/main/google/google-cybersec.pdf) |  [Credly ↗](https://www.credly.com/badges/0258fee4-20de-4044-aab9-b1c411523f36/public_url) |
 
 ---
 
