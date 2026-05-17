@@ -149,7 +149,7 @@ status:     Building portfolio — Open to opportunities
 | [`cybersecurity-labs`](https://github.com/[YOUR_GITHUB_USERNAME]/cybersecurity-labs) | Security audits, ACL configs, and firewall rulesets |
 | [`ethical-hacking`](https://github.com/[YOUR_GITHUB_USERNAME]/ethical-hacking) | CTF write-ups, TryHackMe solutions, recon scripts |
 | [`python-network-tools`](https://github.com/[YOUR_GITHUB_USERNAME]/python-network-tools) | Network automation and scripting |
-| [`certifications`](https://github.com/[YOUR_GITHUB_USERNAME]/certifications) | Certificate images and credential records |
+| [`certifications`](https://github.com/oziomainya/certifications) | Certificate documents and credential records |
 
 ---
 
