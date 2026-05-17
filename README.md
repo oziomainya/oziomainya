@@ -125,7 +125,7 @@ status:     Building portfolio — Open to opportunities
 
 ---
 
-## `$ cat stats.txt`
+<!--## `$ cat stats.txt`
 
 <div align="center">
 
@@ -137,6 +137,7 @@ status:     Building portfolio — Open to opportunities
 
 </div>
 
+-->
 ---
 
 ## `$ ls ./repositories/`
