@@ -56,17 +56,17 @@ status:     Building portfolio — Open to opportunities
 
 ## `$ cat certifications.txt`
 
-| ID | Certification | Issuer | Status |
-|---|---|---|---|
-| CERT_01 | CCNA: Introduction to Networks | Cisco Networking Academy | ✅ Verified |
-| CERT_02 | CCNA: Switching, Routing & Wireless Essentials | Cisco Networking Academy | ✅ Verified |
-| CERT_03 | CCNA: Enterprise Networking, Security & Automation | Cisco Networking Academy | ✅ Verified |
-| CERT_04 | Certified Phishing Prevention Specialist (CPPS) | Hack & Fix | ✅ Verified |
-| CERT_05 | Certified Cybersecurity Educator Professional (CCEP) | Red Team Leaders | ✅ Verified |
-| CERT_06 | Network Technician | Cisco Networking Academy | ✅ Verified |
-| CERT_07 | Ethical Hacker | Cisco Networking Academy | ✅ Verified |
-| CERT_08 | Junior Cybersecurity Analyst | Cisco Networking Academy | ✅ Verified |
-| CERT_09 | Cybersecurity Analyst | Google | ✅ Verified |
+| ID | Certification | Issuer | Certificate | Verify |
+|---|---|---|---|---|
+| CERT_01 | CCNA: Introduction to Networks | Cisco Networking Academy |
+| CERT_02 | CCNA: Switching, Routing & Wireless Essentials | Cisco Networking Academy |
+| CERT_03 | CCNA: Enterprise Networking, Security & Automation | Cisco Networking Academy |
+| CERT_04 | Certified Phishing Prevention Specialist (CPPS) | Hack & Fix |
+| CERT_05 | Certified Cybersecurity Educator Professional (CCEP) | Red Team Leaders |
+| CERT_06 | Network Technician | Cisco Networking Academy |
+| CERT_07 | Ethical Hacker | Cisco Networking Academy |
+| CERT_08 | Junior Cybersecurity Analyst | Cisco Networking Academy |
+| CERT_09 | Cybersecurity Analyst | Google |
 
 ---
 
