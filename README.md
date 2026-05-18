@@ -31,7 +31,7 @@
 
 Network Technician · Cybersecurity Analyst · Ethical Hacker
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=firefox&logoColor=00ff41)](https://[YOUR_PORTFOLIO_URL])
+[![Portfolio](https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=firefox&logoColor=00ff41)](https://oziomainya.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00e5ff)](https://linkedin.com/in/ozioma-inya-a46327304)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-050505?style=for-the-badge&logo=tryhackme&logoColor=ffd600)](https://tryhackme.com/p/oziomainya)
 [![Email](https://img.shields.io/badge/Email-050505?style=for-the-badge&logo=gmail&logoColor=ff4444)](mailto:oziomainya@gmail.com)
@@ -171,6 +171,6 @@ status:     Building portfolio — Open to opportunities
 
 *OZIOMA INYA · UMUAHIA, ABIA STATE, NIGERIA*
 
-*Portfolio: COMING SOON*
+*Portfolio: https://oziomainya.github.io/*
 
 </div>
