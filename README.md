@@ -175,6 +175,6 @@ status:     Building portfolio — Open to opportunities
 
 *OZIOMA INYA · UMUAHIA, ABIA STATE, NIGERIA*
 
-*Portfolio: https://oziomainya.github.io/*
+*Portfolio: [Visit ↗](https://oziomainya.github.io)*
 
 </div>
