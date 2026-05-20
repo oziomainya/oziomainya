@@ -113,7 +113,7 @@ status:     Building portfolio — Open to opportunities
 
 | ID | Project | Category | Status | Link |
 |---|---|---|---|---|
-| 01 | Enterprise LAN Simulation | 🌐 Networking | 🟡 In Progress | — |
+| 01 | Routed Network Traffic Flow Analysis | 🌐 Networking | 🟢 Live | [View ↗](https://oziomainya.github.io/routed-network-traffic-flow-analysis/) |
 | 02 | Network Security Audit Lab | 🔒 Cybersecurity | 🟡 In Progress | — |
 | 03 | TryHackMe CTF Write-ups | ⚔️ Ethical Hacking | 🟡 In Progress | — |
 | 04 | Python Network Automation Scripts | ⚙️ Automation | 🟡 In Progress | — |
@@ -140,7 +140,7 @@ status:     Building portfolio — Open to opportunities
 -->
 ---
 
-## `$ ls ./repositories/`
+<!--## `$ ls ./repositories/`
 
 | Repository | Description |
 |---|---|
@@ -151,15 +151,19 @@ status:     Building portfolio — Open to opportunities
 | [`python-network-tools`](https://github.com/[YOUR_GITHUB_USERNAME]/python-network-tools) | Network automation and scripting |
 | [`certifications`](https://github.com/oziomainya/certifications) | Certificate documents and credential records |
 
+-->
+
 ---
 
-## `$ cat tryhackme.txt`
+<!--## `$ cat tryhackme.txt`
 
 <div align="center">
 
 [![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/oziomainya.png)](https://tryhackme.com/p/oziomainya)
 
 </div>
+
+-->
 
 ---
 
