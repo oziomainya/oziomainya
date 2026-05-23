@@ -113,8 +113,8 @@ status:     Building portfolio — Open to opportunities
 
 | ID | Project | Category | Status | Link |
 |---|---|---|---|---|
-| 01 | Routed Network Traffic Flow Analysis | 🌐 Networking | 🟢 Live | [View ↗](https://oziomainya.github.io/routed-network-traffic-flow-analysis/) |
-| 02 | Network Security Audit Lab | 🔒 Cybersecurity | 🟡 In Progress | — |
+| 01 | Routed Network Traffic Flow Analysis | 🌐 Networking | 🟢 Live | [View ↗](https://oziomainya.github.io/routed-network-traffic-flow-analysis) |
+| 02 | Small Cisco Network: Initial Full Configuration | 🌐 Networking | 🟢 Live | [View ↗](https://oziomainya.github.io/small-cisco-network) |
 | 03 | TryHackMe CTF Write-ups | ⚔️ Ethical Hacking | 🟡 In Progress | — |
 | 04 | Python Network Automation Scripts | ⚙️ Automation | 🟡 In Progress | — |
 
@@ -136,8 +136,8 @@ status:     Building portfolio — Open to opportunities
 [![GitHub Streak](https://streak-stats.demolab.com?user=oziomainya&theme=dark&background=050505&border=00ff4120&ring=00ff41&fire=00e5ff&currStreakLabel=00ff41&sideLabels=5a8f5a&dates=2a4a2a)](https://github.com/oziomainya)
 
 </div>
-
 -->
+
 ---
 
 <!--## `$ ls ./repositories/`
