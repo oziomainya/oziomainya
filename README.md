@@ -115,7 +115,7 @@ status:     Building portfolio — Open to opportunities
 |---|---|---|---|---|
 | 01 | Routed Network Traffic Flow Analysis | 🌐 Networking | 🟢 Live | [View ↗](https://oziomainya.github.io/routed-network-traffic-flow-analysis) |
 | 02 | Small Cisco Network: Initial Full Configuration | 🌐 Networking | 🟢 Live | [View ↗](https://oziomainya.github.io/small-cisco-network) |
-| 03 | TryHackMe CTF Write-ups | ⚔️ Ethical Hacking | 🟡 In Progress | — |
+| 03 | Endpoint Security Hardening Lab | 🔒 Cybersecurity | 🟢 Live | [View ↗](https://oziomainya.github.io/endpoint-security-hardening-lab) |
 | 04 | Python Network Automation Scripts | ⚙️ Automation | 🟡 In Progress | — |
 
 <!-- When a project is live, replace "— " with the link like this:
