@@ -113,7 +113,7 @@ status:     Building portfolio — Open to opportunities
 
 | ID | Project | Category | Status | Link |
 |---|---|---|---|---|
-| 01 | Routed Network Traffic Flow Analysis | 🌐 Networking | 🟢 Live | [View ↗](https://oziomainya.github.io/routed-network-traffic-flow-analysis) |
+| 01 | Introduction to Cybersecurity: Comprehensive Threat and Awareness Report | 🔒 Cybersecurity | 🟢 Live | [View ↗](https://oziomainya.github.io/intro-to-cybersecurity) |
 | 02 | Small Cisco Network: Initial Full Configuration | 🌐 Networking | 🟢 Live | [View ↗](https://oziomainya.github.io/small-cisco-network) |
 | 03 | Endpoint Security Hardening Lab | 🔒 Cybersecurity | 🟢 Live | [View ↗](https://oziomainya.github.io/endpoint-security-hardening-lab) |
 | 04 | Python Network Automation Scripts | ⚙️ Automation | 🟡 In Progress | — |
@@ -121,36 +121,6 @@ status:     Building portfolio — Open to opportunities
 <!-- When a project is live, replace "— " with the link like this:
   [View →](https://github.com/[YOUR_GITHUB_USERNAME]/project-name)
   And change 🟡 In Progress to 🟢 Live
--->
-
----
-
-<!--## `$ cat stats.txt`
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats-beta-ebon-67.vercel.app/api?username=oziomainya&show_icons=true&theme=chartreuse-dark&bg_color=050505&border_color=00ff4120&title_color=00ff41&text_color=5a8f5a&icon_color=00e5ff&hide_border=false)](https://github.com/oziomainya)
-
-[![Top Languages](https://github-readme-stats-beta-ebon-67.vercel.app/api/top-langs/?username=oziomainya&layout=compact&theme=chartreuse-dark&bg_color=050505&border_color=00ff4120&title_color=00ff41&text_color=5a8f5a)](https://github.com/oziomainya)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=oziomainya&theme=dark&background=050505&border=00ff4120&ring=00ff41&fire=00e5ff&currStreakLabel=00ff41&sideLabels=5a8f5a&dates=2a4a2a)](https://github.com/oziomainya)
-
-</div>
--->
-
----
-
-<!--## `$ ls ./repositories/`
-
-| Repository | Description |
-|---|---|
-| [`ccna-labs`](https://github.com/[YOUR_GITHUB_USERNAME]/ccna-labs) | All CCNA Packet Tracer labs and device configs from the course |
-| [`networking-projects`](https://github.com/[YOUR_GITHUB_USERNAME]/networking-projects) | Enterprise network designs and simulations |
-| [`cybersecurity-labs`](https://github.com/[YOUR_GITHUB_USERNAME]/cybersecurity-labs) | Security audits, ACL configs, and firewall rulesets |
-| [`ethical-hacking`](https://github.com/[YOUR_GITHUB_USERNAME]/ethical-hacking) | CTF write-ups, TryHackMe solutions, recon scripts |
-| [`python-network-tools`](https://github.com/[YOUR_GITHUB_USERNAME]/python-network-tools) | Network automation and scripting |
-| [`certifications`](https://github.com/oziomainya/certifications) | Certificate documents and credential records |
-
 -->
 
 ---
