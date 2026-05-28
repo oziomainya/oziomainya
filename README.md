@@ -114,7 +114,7 @@ status:     Building portfolio — Open to opportunities
 | ID | Project | Category | Status | Link |
 |---|---|---|---|---|
 | 01 | Introduction to Cybersecurity: Comprehensive Threat and Awareness Report | 🔒 Cybersecurity | 🟢 Live | [View ↗](https://oziomainya.github.io/intro-to-cybersecurity) |
-| 02 | Small Cisco Network: Initial Full Configuration | 🌐 Networking | 🟢 Live | [View ↗](https://oziomainya.github.io/small-cisco-network) |
+| 02 | Small Office Network Build: Complete Networking Fundamentals Lab | 🌐 Networking | 🟢 Live | [View ↗](https://oziomainya.github.io/small-office-network) |
 | 03 | Endpoint Security Hardening Lab | 🔒 Cybersecurity | 🟢 Live | [View ↗](https://oziomainya.github.io/endpoint-security-hardening-lab) |
 | 04 | Python Network Automation Scripts | ⚙️ Automation | 🟡 In Progress | — |
 
