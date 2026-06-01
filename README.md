@@ -115,7 +115,7 @@ status:     Building portfolio — Open to opportunities
 |---|---|---|---|---|
 | 01 | Blackstone Legal: Cybersecurity Awareness and Threat Assessment Report | 🔒 Cybersecurity | 🟢 Live | [View ↗](https://oziomainya.github.io/cybersecurity-report) |
 | 02 | TechCorp Solutions: Office Network Build from Scratch | 🌐 Networking | 🟢 Live | [View ↗](https://oziomainya.github.io/small-office-network) |
-| 03 | Endpoint Security Hardening Lab | 🔒 Cybersecurity | 🟢 Live | [View ↗](https://oziomainya.github.io/endpoint-security-hardening-lab) |
+| 03 | PeakRetail Ltd: Branch Network Deployment | 🌐 Networking | 🟢 Live | [View ↗](https://oziomainya.github.io/branch-network) |
 | 04 | Python Network Automation Scripts | ⚙️ Automation | 🟡 In Progress | — |
 
 <!-- When a project is live, replace "— " with the link like this:
