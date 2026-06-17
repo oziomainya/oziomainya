@@ -117,7 +117,7 @@ status:     Building portfolio — Open to opportunities
 | 02 | TechCorp Solutions: Office Network Build from Scratch | 🌐 Networking | 🟢 Live | [View ↗](https://oziomainya.github.io/small-office-network) |
 | 03 | PeakRetail Ltd: Branch Network Deployment | 🌐 Networking | 🟢 Live | [View ↗](https://oziomainya.github.io/branch-network) |
 | 04 | ClearMed Clinic: Endpoint Security Assessment And Hardening | 🔒 Cybersecurity | 🟢 Live | [View ↗](https://oziomainya.github.io/endpoint-security-assessment) |
-
+| 05 | Network Defense: VaultFin Services | 🔒 Cybersecurity | 🟢 Live | [View ↗](https://oziomainya.github.io/network-defense) |
 <!-- When a project is live, replace "— " with the link like this:
   [View →](https://github.com/[YOUR_GITHUB_USERNAME]/project-name)
   And change 🟡 In Progress to 🟢 Live
